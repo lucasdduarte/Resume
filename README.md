@@ -10,6 +10,9 @@ Economist with a strong academic background. Enthusiastic about data and economi
 ---
 ## Education
 
+**Codecademy** - Remote
+*Data Scientist Career Path: Analytics and Machine Learning* - *Jan 2025 -  ongoing*
+
 **University of São Paulo** - São Paulo, Brazil  
 *M.Sc. Economic Theory* - *Jan 2023 - Jul 2025*
 
